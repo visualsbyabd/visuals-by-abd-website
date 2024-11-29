@@ -1,0 +1,3 @@
+export const METADATA_DEFAULT_DESCRIPTION= "";
+
+export const METADATA_DEFAULT_KEYWORDS= "";
